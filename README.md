@@ -7,7 +7,7 @@ This repository tracks my **daily progress**, includes **resources**, and mainta
 
 ## 📅 Timeline
 
-- **Start Date:** [18/06/2025]
+- **Start Date:** 18/06/2025
 - **End Date:** [DD/MM/YYYY]
 - **Goal:** Become proficient in DSA and AIML for top tech roles like **Google**, **Microsoft**, etc.
 
